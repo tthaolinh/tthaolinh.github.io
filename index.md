@@ -11,7 +11,7 @@
 ---
 
 ## British Airways Customer Reviews
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)])(https://github.com/tthaolinh/Youtube-API/blob/main/Youtube-API.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/British-Airways-Passenger-Satisfaction/blob/main/Report.ipynb)
 
 <div style="text-align: justify"> This project aims to analyze customer feedback and reviews about British Airways (BA) collected from the web, specifically from Skytrax. Through web scraping and data analysis techniques like sentiment analysis and topic modeling, the project aims to extract valuable insights to enhance customer service and make informed business decisions for British Airways, ultimately improving customer satisfaction and driving company success.
   
