@@ -4,7 +4,7 @@
 ## Customer Churn Modeling Prediction
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Churn-Modelling/blob/main/Churn_Model%20(1).ipynb)
 
-<div style="text-align: justify"> This undertaking delves into the banking customer database, with a specific emphasis on demographic factors such as age, geography, and gender. The primary objective is to forecast potential customer attrition by employing advanced algorithms including Random Forest, Support Vector Machines, Decision Tree, and Logistic Regression. Through these methodologies, the project strives to anticipate customer behaviors, thereby providing invaluable strategies for banks to bolster their customer retention efforts.
+<div style="text-align: justify"> This undertaking delves into the banking customer database, with a specific emphasis on demographic factors such as age, geography, and gender. The primary objective is to forecast potential customer attrition by employing advanced algorithms including Random Forest, Support Vector Machines, Decision Trees, and Logistic Regression. Through these methodologies, the project strives to anticipate customer behaviors, thereby providing invaluable strategies for banks to bolster their customer retention efforts.
   
 <img src="images/OIP%20(3).jpg?raw=true"/>
 
@@ -24,7 +24,7 @@
 
 <div style="text-align: justify"> This project is centered around data analysis and seeks to delve into the primary determinants impacting the performance of YouTube videos within the field of data science. The initiative encompasses the utilization of the YouTube API to acquire video-related data, carry out comprehensive examinations, and debunk prevalent misconceptions related to video engagement. Through the application of diverse data analysis methods, Natural Language Processing (NLP), and Sentiment Analysis, the objective is to offer valuable perspectives to content creators, students studying data science, and avid enthusiasts in the field.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/image2.gif?raw=true"/>
 
 ---
 
