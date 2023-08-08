@@ -5,13 +5,10 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Churn-Modelling/blob/main/Churn_Model%20(1).ipynb)
 ![Python](https://img.shields.io/badge/Python-navy)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brown)
-
 <div style="text-align: justify"> This undertaking delves into the banking customer database, with a specific emphasis on demographic factors such as age, geography, and gender. The primary objective is to forecast potential customer attrition by employing advanced algorithms including Random Forest, Support Vector Machines, Decision Trees, and Logistic Regression. Through these methodologies, the project strives to anticipate customer behaviors, thereby providing invaluable strategies for banks to bolster their customer retention efforts.
-  
 <img src="images/OIP%20(3).jpg?raw=true"/>
 
 ---
-
 ## British Airways Customer Reviews
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/British-Airways-Passenger-Satisfaction/blob/main/Report.ipynb)
 ![Python](https://img.shields.io/badge/Python-navy)
@@ -22,7 +19,6 @@
 <img src="images/british-airways-on-business.jpg?raw=true"/>
 
 ---
-
 ## Top 5 Data Science Channels using Youtube API
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Youtube-API/blob/main/Youtube-API.ipynb)
 ![Python](https://img.shields.io/badge/Python-navy)
@@ -34,7 +30,6 @@
 <img src="images/image2.gif?raw=true"/>
 
 ---
-
 ## PWC Switzerland HR Dashboards
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Pwc-virtual-internship)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow)
