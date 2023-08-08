@@ -34,6 +34,6 @@
 
 <div style="text-align: justify"> This multifaceted project encompasses three distinct tasks: designing a dynamic Power BI dashboard to showcase vital call center trends and metrics for enhanced decision-making; formulating strategic KPIs and constructing an insightful dashboard to aid the retention manager in customer-focused efforts, accompanied by clear recommendations for optimization; and addressing the imperative of Diversity and Inclusion by identifying crucial measures that underpin progress, thereby embedding these principles as pivotal drivers within the organization's ethos.
 
-<img src="images/image2.gif?raw=true"/>
+<img src="images/769483085182.jpg?raw=true"/>
 
 
