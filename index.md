@@ -9,14 +9,20 @@
 <img src="images/OIP%20(3).jpg?raw=true"/>
 
 ---
+
 ## British Airways Customer Reviews
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/British-Airways-Passenger-Satisfaction/blob/main/Report.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)])(https://github.com/tthaolinh/Youtube-API/blob/main/Youtube-API.ipynb)
+
 <div style="text-align: justify"> This project aims to analyze customer feedback and reviews about British Airways (BA) collected from the web, specifically from Skytrax. Through web scraping and data analysis techniques like sentiment analysis and topic modeling, the project aims to extract valuable insights to enhance customer service and make informed business decisions for British Airways, ultimately improving customer satisfaction and driving company success.
   
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/british-airways-on-business.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+## Top 5 Data Science Channels using Youtube API
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Churn-Modelling/blob/main/Churn_Model%20(1).ipynb)
+
+<div style="text-align: justify"> This project aims to analyze customer feedback and reviews about British Airways (BA) collected from the web, specifically from Skytrax. Through web scraping and data analysis techniques like sentiment analysis and topic modeling, the project aims to extract valuable insights to enhance customer service and make informed business decisions for British Airways, ultimately improving customer satisfaction and driving company success.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
