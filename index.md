@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Data Science
+### Customer Churn Modeling Prediction
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Churn-Modelling/blob/main/Churn_Model%20(1).ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
