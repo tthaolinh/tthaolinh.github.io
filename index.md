@@ -7,7 +7,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Churn-Modelling/blob/main/Churn_Model%20(1).ipynb)
 
 <div style="text-align: justify"> This undertaking delves into the banking customer database, with a specific emphasis on demographic factors such as age, geography, and gender. The primary objective is to forecast potential customer attrition by employing advanced algorithms including Random Forest, Support Vector Machines, Decision Tree, and Logistic Regression. Through these methodologies, the project strives to anticipate customer behaviors, thereby providing invaluable strategies for banks to bolster their customer retention efforts.
-
 <img src="images/OIP%20(3).jpg?raw=true"/>
 
 ---
