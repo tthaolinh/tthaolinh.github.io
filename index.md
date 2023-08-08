@@ -36,9 +36,8 @@
 
 <div style="text-align: justify">This project is centered around data analysis and seeks to delve into the primary determinants impacting the performance of YouTube videos within the field of data science. The initiative encompasses the utilization of the YouTube API to acquire video-related data, carry out comprehensive examinations, and debunk prevalent misconceptions related to video engagement. Through the application of diverse data analysis methods, Natural Language Processing (NLP), and Sentiment Analysis, the objective is to offer valuable perspectives to content creators, students studying data science, and avid enthusiasts in the field.</div>
 <br>
-<center></center><img src="images/image2.gif?raw=true"/></center>
+<center><img src="images/image2.gif?raw=true"/></center>
 <br>
-
 
 ---
 
