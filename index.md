@@ -14,7 +14,7 @@
 ---
 
 ### British Airways Customer Reviews
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/British-Airways-Passenger-Satisfaction/blob/main/Report.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/British-Airways-Passenger-Satisfaction/blob/main/British%20Airways%20Passenger%20Satisfaction.ipynb)
 ![Python](https://img.shields.io/badge/Python-navy)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-red)
 
