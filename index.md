@@ -27,8 +27,8 @@
   
 ---
 
-## Top 5 Data Science Channels using Youtube API
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tthaolinh/Youtube-API/blob/main/Youtube-API.ipynb)
+## Top 10 Data Science Channels using Youtube API
+[![View on GitHub](https://github.com/tthaolinh/Youtube-API/blob/main/Youtube-API%20(1).ipynb)
 ![Python](https://img.shields.io/badge/Python-navy)
 ![NLP](https://img.shields.io/badge/NLP-orange)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-green)
